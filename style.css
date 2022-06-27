@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+a:visited{
+    color: Blue; 
+}
+
+li{
+    list-style-position: inside;
+}
